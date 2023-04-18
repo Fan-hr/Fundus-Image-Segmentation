@@ -41,7 +41,7 @@ project
 
 We use U-Net as the backbone for fundus image segmentation
 
-![image](./images/u-net.jpg)
+![image](./images/u-net.png)
 
 ## Result
 
