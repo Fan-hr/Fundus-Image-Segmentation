@@ -45,7 +45,7 @@ We use U-Net as the backbone for fundus image segmentation
 
 ## Result
 
-We use ***dice*** as main evaluation metric, Our method achieves better results on the internal dataset(dice:92.31)
+We use ***dice*** as the main evaluation metric, Our method achieves better results on the internal dataset(dice:92.31)
 
 ![image](./images/result.png)
 
